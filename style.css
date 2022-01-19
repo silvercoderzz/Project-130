@@ -1,0 +1,62 @@
+.heading
+{
+    font-size:23px;
+    width: 100%;
+    margin: 0px;
+}
+.note
+{
+    font-size: 18px;
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+}
+body
+{
+background-size: cover;
+}
+.div_speed
+{
+    float: left;
+    
+}
+.div_speed_img, .div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed, #volume
+{
+    font-size: 23px;
+    margin: 15px;
+}
+.div_volume
+{
+    float: right;
+}
+.dj
+{
+    float: left;
+    margin-top: -1px;
+}
+.dj2
+{
+    float: right;
+    margin-top: -1px;   
+}
+canvas
+{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    border: 5px double black;
+    margin-top: 350px;
+}
+.activities
+{
+    background-color: black;
+    width: fit-content;
+    border: 5px solid red;
+    padding: 10px;
+    border-radius: 100px;
+}
